@@ -14,3 +14,10 @@ This repo is intended to be a roadmap for developing a NeoVim environment that:
 The aim is to create a workspace for me (ML Engineers, Analytics Engineers, Data Scientists and Analysts) that is a one stop shop to quickly update and run my code base.
 
 At the end of this, we should have one IDE that I can use to update and check any parts of my datapipeline, from python commands, to my models in Stan.
+
+
+
+this is my change to my thing this is srtijsoritj.
+
+
+these are new lines too
