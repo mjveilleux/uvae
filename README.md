@@ -7,7 +7,7 @@ This repo is intended to be a roadmap for developing a NeoVim environment that:
   - handles sql exploratory work and development
   - allows plots and statistcal analyses in R / Quarto
   - Has a Stan plugin for syntax checking and what not
-  - manages python environments better than VSCode
+  - manages python environments with ease
   - allows me to seamless work between repos and playground environments for when I need to check things
 
 
